@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dTqBOhrjOo2QyEfOvDF02Uabb5A2oXVFqlypLP9bP2FuqcCKHycYWQ80jbuebnQRxhqMOzMuZeCJALUdr+OHmQ==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\olle.brinkwennberg\\Desktop\\Modellering\\Modellering\\Modellering.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\olle.brinkwennberg\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
